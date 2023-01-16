@@ -1,13 +1,16 @@
-<h1 align="center"> Apna-E-Mart <h1/>  
+<h1 align="center"> E-Shoppers
+ <h1/>  
 
-<h3>It is a solo Project and In this repo I try to build a E-Commerce website with React stack technologies. For Practice purpose.</h3>
+<h3>Flathheads clone is an e-commerce plateform where users may purchase various types of sneaakers.This is solo project and fully Responsive.
+
+</h3>
 
 <div style='page-break-after: always'></div>
 
 <h3 align="center" > Want to see live preview >><h3>
 <p align="center">
 <br />
-<a target="blank" href="https://apna-e-mart-avinashkumarkml.vercel.app/">Deployed Link</a>
+<a target="blank" href="https://eshoppers-three.vercel.app/">Deployed Link</a>
 </p>
 
 <br />
@@ -17,7 +20,7 @@
 Clone the project
 
 ```
-git clone https://github.com/avinashkumarkml/Apna-E-Mart.git
+git clone https://github.com/avinashkumarkml/E-Shoppers.git
 ```
 
 Install npm packages
@@ -29,7 +32,7 @@ npm install
 Run the surver
 
 ```
-npm start
+npm run dev
 ```
 
 View in Browser
@@ -47,7 +50,7 @@ go to http://localhost:3000
 - JavaScript
 - ReactJs
 - Redux
-- MUI
+- Chakra-UI
 
 All the data got stored in and called from <b>Railway App</b>.
 
@@ -64,21 +67,21 @@ All the data got stored in and called from <b>Railway App</b>.
   
   ## Some Snapshots
 <p>Landing page</p>
-<img src="https://miro.medium.com/max/1100/1*aZVr-cnkql_TFRsAPWqpqw.webp"/>
+<img src="https://miro.medium.com/max/1100/1*23vUO-ZcFSleks9luh9WEQ.webp"/>
 
 <p>Product page</p>
-<img src="https://miro.medium.com/max/1100/1*XG7gKJMkkGVehBm3_C8ZXw.webp"/>
+<img src="https://miro.medium.com/max/1100/1*RzwwRXnqmiz7s_N8Jd1VtA.webp"/>
 
 <p>The cart page</p>
-<img src="https://miro.medium.com/max/1100/1*y8DNYFJTOFvl_CAUGWj0uQ.webp"/>
+<img src="https://miro.medium.com/max/1100/1*v49qhoaC0hkZd_U9SlLorg.webp"/>
   
-<p>Sign UP page</p>
-<img src="https://miro.medium.com/max/1100/1*oab-B0KPdYJ_BBsZCchfiA.webp"/>
+<p>Check out page</p>
+<img src="https://miro.medium.com/max/1100/1*yRdnP1zmi-n0v8NJGfHxBA.webp"/>
 
-<p>Sign In page</p>
-<img src="https://miro.medium.com/max/1100/1*_nIVQlgAi_gU-pBk2PVcYA.webp"/>
+<pPpayment details page</p>
+<img src="https://miro.medium.com/max/1100/1*8fb1ycwq-TYuuPbF3WWc8g.webp"/>
   
-## Please do check out our Apna-E-Mart !
+## Please do check out our E-Shoppers!
 
  <h2>Contact</h2>
 
