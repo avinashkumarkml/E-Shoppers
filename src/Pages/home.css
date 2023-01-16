@@ -1,0 +1,31 @@
+.imgcontrol img{
+    height: 600px;
+    min-width: 100%;
+
+
+}
+
+.imgcontrol{
+    display: flex;
+    /* gap:"-20px" */
+}
+
+
+@media (max-width: 450px) {
+
+    .imgcontrol{
+        display: flex;
+        gap:"20px"
+    }
+    
+    .imgcontrol img{
+        /* min-height: 220px; */
+        height: 300px;
+        min-width: 100%;
+    
+    
+    }
+    
+    
+  }
+  
